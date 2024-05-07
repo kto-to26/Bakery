@@ -1,0 +1,27 @@
+.threeBlock{
+    width: 15vw;
+    height: 40vh;
+     display: flex;
+     flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    gap: 20px;
+
+    .threeBlock-img{
+        width: 70px;
+        height: 70px;
+    }
+
+    .threeBlock-name{
+        color: #1f1f1f;
+        font-family: "Cormorant", serif;
+        width: 80%;
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .threeBlock-text{
+        color: #1f1f1f;
+        font-size: 16px;
+    }
+}
