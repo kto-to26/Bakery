@@ -1,5 +1,7 @@
 import cross from "../public/tips/cross.svg";
 
+// Git
+
 // two
 import twoOne from "../public/two/one.png";
 import twoTwo from "../public/two/two.png";
